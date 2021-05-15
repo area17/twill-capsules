@@ -12,5 +12,5 @@ This is a list of resources related to Twill and Capsules.
 
 [Posts](https://github.com/area17/twill-capsule-posts): Capsule example.
 
-[Homepages](https://github.com/area17/twill-capsule-posts): To build homepage on your CMS.
+[Homepages](https://github.com/area17/twill-capsule-homepages): To build homepage on your CMS.
 
